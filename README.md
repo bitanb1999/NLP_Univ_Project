@@ -20,5 +20,8 @@ The models in the notebooks are:
 5. Abstractive Summarisation using Seq2Seq model with Word2Vec embeddings: Model 4b.
 6. Abstractive Summarisation using Finetuned Google T5 small: Model 5
 
-<img width="389" alt="Screenshot 2022-07-29 at 9 55 29 PM" src="https://user-images.githubusercontent.com/76226078/181809055-6ea18362-bd0f-48e1-88d0-6d0d96ba9ed7.png">
+<img width="389" alt="Screens<img width="1086" alt="Screenshot 2022-07-29 at 9 35 13 PM" src="https://user-images.githubusercontent.com/76226078/181809681-062a4736-4848-46e1-8a23-ec831b11a054.png">
+hot 2022-07-29 at 9 55 29 PM" src="https://user-images.githubusercontent.com/76226078/181809055-6ea18362-bd0f-48e1-88d0-6d0d96ba9ed7.png">
+
+
 
