@@ -10,3 +10,15 @@
 
 **The uniqueness of the project lies in the fact that we try to explore abstractive summarisation in a thorough fashion, making sure we use all kinds of NLP models and evaluate their performances and also compare the same. The models we use are the Vanilla LSTM-based RNN model, Vanilla GRU-based RNN model, Seq2Seq Model with Attention, and HuggingFace Transformer Google T5 model. The models are wrangled and evaluated thoroughly.**
 
+![comarison of rouge and bleu scores (1)](https://user-images.githubusercontent.com/76226078/181808424-cbd37b32-ad58-4727-9045-66e86d94d16c.jpg)
+
+The models in the notebooks are:
+1. Abstractive Summarisation using SimpleRNN(Baseline): Model 1
+2. Abstractive Summarisation using GRU Model: Model 2
+3. Abstractive Summarisation using Vanilla LSTM model: Model 3
+4.Abstractive Summarisation using Seq2Seq model with Attention: Model 4a
+5. Abstractive Summarisation using Seq2Seq model with Word2Vec embeddings: Model 4b.
+6. Abstractive Summarisation using Finetuned Google T5 small: Model 5
+
+<img width="389" alt="Screenshot 2022-07-29 at 9 55 29 PM" src="https://user-images.githubusercontent.com/76226078/181809055-6ea18362-bd0f-48e1-88d0-6d0d96ba9ed7.png">
+
